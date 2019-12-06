@@ -1,0 +1,1395 @@
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b54ff/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b54ff.dir/build.make CMakeFiles/cmTC_b54ff.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b54ff.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_b54ff.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: malloc/malloc.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_b54ff.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b54ff.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_b54ff.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b54ff/fast' failed
+make: *** [cmTC_b54ff/fast] Error 2
+
+
+Determining if the include file ndir.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_da088/fast"
+/usr/bin/make -f CMakeFiles/cmTC_da088.dir/build.make CMakeFiles/cmTC_da088.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da088.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_da088.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: ndir.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_da088.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_da088.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_da088.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_da088/fast' failed
+make: *** [cmTC_da088/fast] Error 2
+
+
+Determining if the include file sys/ndir.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_99340/fast"
+/usr/bin/make -f CMakeFiles/cmTC_99340.dir/build.make CMakeFiles/cmTC_99340.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_99340.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_99340.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: sys/ndir.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_99340.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_99340.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_99340.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_99340/fast' failed
+make: *** [cmTC_99340/fast] Error 2
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dd6fb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dd6fb.dir/build.make CMakeFiles/cmTC_dd6fb.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dd6fb.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_dd6fb.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:31: fatal error: valgrind/valgrind.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_dd6fb.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_dd6fb.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_dd6fb.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_dd6fb/fast' failed
+make: *** [cmTC_dd6fb/fast] Error 2
+
+
+Determining if the include file zlib.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2c202/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2c202.dir/build.make CMakeFiles/cmTC_2c202.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2c202.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_2c202.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: zlib.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_2c202.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2c202.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_2c202.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2c202/fast' failed
+make: *** [cmTC_2c202/fast] Error 2
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0e93b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0e93b.dir/build.make CMakeFiles/cmTC_0e93b.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0e93b.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_0e93b.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:23: fatal error: mach/mach.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_0e93b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0e93b.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_0e93b.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0e93b/fast' failed
+make: *** [cmTC_0e93b/fast] Error 2
+
+
+Determining if the include file histedit.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_11a2a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_11a2a.dir/build.make CMakeFiles/cmTC_11a2a.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_11a2a.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_11a2a.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: histedit.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_11a2a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_11a2a.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_11a2a.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_11a2a/fast' failed
+make: *** [cmTC_11a2a/fast] Error 2
+
+
+Determining if the include file CrashReporterClient.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5faca/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5faca.dir/build.make CMakeFiles/cmTC_5faca.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5faca.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_5faca.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:33: fatal error: CrashReporterClient.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_5faca.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_5faca.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_5faca.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5faca/fast' failed
+make: *** [cmTC_5faca/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3d777/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3d777.dir/build.make CMakeFiles/cmTC_3d777.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3d777.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_3d777.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_3d777
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3d777.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_3d777.dir/CheckSymbolExists.c.o  -o cmTC_3d777 -lm 
+CMakeFiles/cmTC_3d777.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_3d777.dir/build.make:97: recipe for target 'cmTC_3d777' failed
+make[1]: *** [cmTC_3d777] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3d777/fast' failed
+make: *** [cmTC_3d777/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5f93f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5f93f.dir/build.make CMakeFiles/cmTC_5f93f.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5f93f.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_5f93f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5f93f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5f93f.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_5f93f.dir/CheckFunctionExists.c.o  -o cmTC_5f93f -lpthreads -lm 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5f93f.dir/build.make:97: recipe for target 'cmTC_5f93f' failed
+make[1]: *** [cmTC_5f93f] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5f93f/fast' failed
+make: *** [cmTC_5f93f/fast] Error 2
+
+
+Determining if the function compress2 exists in the z failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b7b6e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b7b6e.dir/build.make CMakeFiles/cmTC_b7b6e.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b7b6e.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=compress2   -o CMakeFiles/cmTC_b7b6e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_b7b6e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7b6e.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=compress2    CMakeFiles/cmTC_b7b6e.dir/CheckFunctionExists.c.o  -o cmTC_b7b6e -lz -lm 
+/usr/bin/ld: cannot find -lz
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_b7b6e.dir/build.make:97: recipe for target 'cmTC_b7b6e' failed
+make[1]: *** [cmTC_b7b6e] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b7b6e/fast' failed
+make: *** [cmTC_b7b6e/fast] Error 2
+
+
+Determining if the function compress2 exists in the zlib_static failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_757aa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_757aa.dir/build.make CMakeFiles/cmTC_757aa.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_757aa.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=compress2   -o CMakeFiles/cmTC_757aa.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_757aa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_757aa.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=compress2    CMakeFiles/cmTC_757aa.dir/CheckFunctionExists.c.o  -o cmTC_757aa -lzlib_static -lm 
+/usr/bin/ld: cannot find -lzlib_static
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_757aa.dir/build.make:97: recipe for target 'cmTC_757aa' failed
+make[1]: *** [cmTC_757aa] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_757aa/fast' failed
+make: *** [cmTC_757aa/fast] Error 2
+
+
+Determining if the function compress2 exists in the zlib failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5f9ad/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5f9ad.dir/build.make CMakeFiles/cmTC_5f9ad.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5f9ad.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=compress2   -o CMakeFiles/cmTC_5f9ad.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5f9ad
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5f9ad.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=compress2    CMakeFiles/cmTC_5f9ad.dir/CheckFunctionExists.c.o  -o cmTC_5f9ad -lzlib -lm 
+/usr/bin/ld: cannot find -lzlib
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5f9ad.dir/build.make:97: recipe for target 'cmTC_5f9ad' failed
+make[1]: *** [cmTC_5f9ad] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5f9ad/fast' failed
+make: *** [cmTC_5f9ad/fast] Error 2
+
+
+Determining if the function xar_open exists in the xar failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f0a42/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f0a42.dir/build.make CMakeFiles/cmTC_f0a42.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f0a42.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=xar_open   -o CMakeFiles/cmTC_f0a42.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f0a42
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f0a42.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=xar_open    CMakeFiles/cmTC_f0a42.dir/CheckFunctionExists.c.o  -o cmTC_f0a42 -lxar -lm 
+/usr/bin/ld: cannot find -lxar
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_f0a42.dir/build.make:97: recipe for target 'cmTC_f0a42' failed
+make[1]: *** [cmTC_f0a42] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f0a42/fast' failed
+make: *** [cmTC_f0a42/fast] Error 2
+
+
+Determining if the arc4random exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_11bbd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_11bbd.dir/build.make CMakeFiles/cmTC_11bbd.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_11bbd.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_11bbd.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘arc4random’ undeclared (first use in this function)
+   return ((int*)(&arc4random))[argc];
+                   ^
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_11bbd.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_11bbd.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_11bbd.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_11bbd/fast' failed
+make: *** [cmTC_11bbd/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_febed/fast"
+/usr/bin/make -f CMakeFiles/cmTC_febed.dir/build.make CMakeFiles/cmTC_febed.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_febed.dir/src.c.o
+/usr/bin/cc    -DC_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW   -Werror=unguarded-availability-new -o CMakeFiles/cmTC_febed.dir/src.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/src.c
+cc1: error: -Werror=unguarded-availability-new: no option -Wunguarded-availability-new
+CMakeFiles/cmTC_febed.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_febed.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_febed.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_febed/fast' failed
+make: *** [cmTC_febed/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Determining if the mallctl exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7f907/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7f907.dir/build.make CMakeFiles/cmTC_7f907.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7f907.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_7f907.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: malloc_np.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_7f907.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_7f907.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_7f907.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7f907/fast' failed
+make: *** [cmTC_7f907/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e2a87/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e2a87.dir/build.make CMakeFiles/cmTC_e2a87.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e2a87.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_e2a87.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:27: fatal error: malloc/malloc.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_e2a87.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e2a87.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_e2a87.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e2a87/fast' failed
+make: *** [cmTC_e2a87/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_da76b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_da76b.dir/build.make CMakeFiles/cmTC_da76b.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da76b.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_da76b.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘strerror_s’ undeclared (first use in this function)
+   return ((int*)(&strerror_s))[argc];
+                   ^
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_da76b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_da76b.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_da76b.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_da76b/fast' failed
+make: *** [cmTC_da76b/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the dladdr exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ce91c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ce91c.dir/build.make CMakeFiles/cmTC_ce91c.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce91c.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_ce91c.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘dladdr’ undeclared (first use in this function)
+   return ((int*)(&dladdr))[argc];
+                   ^
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_ce91c.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ce91c.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_ce91c.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ce91c/fast' failed
+make: *** [cmTC_ce91c/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <dlfcn.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef dladdr
+  return ((int*)(&dladdr))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C++ SOURCE FILE Test SUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c5338/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c5338.dir/build.make CMakeFiles/cmTC_c5338.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c5338.dir/src.cxx.o
+/usr/bin/c++     -DSUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG   -Wgnu-zero-variadic-macro-arguments -o CMakeFiles/cmTC_c5338.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wgnu-zero-variadic-macro-arguments'
+CMakeFiles/cmTC_c5338.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_c5338.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_c5338.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c5338/fast' failed
+make: *** [cmTC_c5338/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a37f1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a37f1.dir/build.make CMakeFiles/cmTC_a37f1.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a37f1.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -DCXX_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW   -Werror -Werror=unguarded-availability-new -o CMakeFiles/cmTC_a37f1.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: -Werror=unguarded-availability-new: no option -Wunguarded-availability-new
+CMakeFiles/cmTC_a37f1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a37f1.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_a37f1.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a37f1/fast' failed
+make: *** [cmTC_a37f1/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_48604/fast"
+/usr/bin/make -f CMakeFiles/cmTC_48604.dir/build.make CMakeFiles/cmTC_48604.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_48604.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_48604.dir/src.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_48604.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_48604.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_48604.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_48604/fast' failed
+make: *** [cmTC_48604/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c78a4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c78a4.dir/build.make CMakeFiles/cmTC_c78a4.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c78a4.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -DCXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_c78a4.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_c78a4.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_c78a4.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_c78a4.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c78a4/fast' failed
+make: *** [cmTC_c78a4/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_07c79/fast"
+/usr/bin/make -f CMakeFiles/cmTC_07c79.dir/build.make CMakeFiles/cmTC_07c79.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_07c79.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG   -Werror -Wdelete-non-virtual-dtor -o CMakeFiles/cmTC_07c79.dir/src.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/src.c
+cc1: error: command line option '-Wdelete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [-Werror]
+cc1: all warnings being treated as errors
+CMakeFiles/cmTC_07c79.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_07c79.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_07c79.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_07c79/fast' failed
+make: *** [cmTC_07c79/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WCOMMENT_ALLOWS_LINE_WRAP failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_36a66/fast"
+/usr/bin/make -f CMakeFiles/cmTC_36a66.dir/build.make CMakeFiles/cmTC_36a66.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_36a66.dir/src.c.o
+/usr/bin/cc  -D_GNU_SOURCE  -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_WCOMMENT_ALLOWS_LINE_WRAP  -Werror -Wcomment   -o CMakeFiles/cmTC_36a66.dir/src.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/src.c
+/home/enigma/build/CMakeFiles/CMakeTmp/src.c:1:1: error: multi-line comment [-Werror=comment]
+ // \
+ ^
+cc1: all warnings being treated as errors
+CMakeFiles/cmTC_36a66.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_36a66.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_36a66.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_36a66/fast' failed
+make: *** [cmTC_36a66/fast] Error 2
+
+Source file was:
+// \
+//
+int main() {return 0;}
+Performing C SOURCE FILE Test C_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1ba24/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1ba24.dir/build.make CMakeFiles/cmTC_1ba24.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1ba24.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -DC_SUPPORTS_STRING_CONVERSION_FLAG   -Werror -Wstring-conversion -o CMakeFiles/cmTC_1ba24.dir/src.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wstring-conversion'
+CMakeFiles/cmTC_1ba24.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1ba24.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_1ba24.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1ba24/fast' failed
+make: *** [cmTC_1ba24/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0de97/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0de97.dir/build.make CMakeFiles/cmTC_0de97.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0de97.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -DCXX_SUPPORTS_STRING_CONVERSION_FLAG   -Werror -Wstring-conversion -o CMakeFiles/cmTC_0de97.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wstring-conversion'
+CMakeFiles/cmTC_0de97.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0de97.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_0de97.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0de97/fast' failed
+make: *** [cmTC_0de97/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_WMISMATCHED_TAGS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2f791/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2f791.dir/build.make CMakeFiles/cmTC_2f791.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2f791.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_WMISMATCHED_TAGS_FLAG  -nodefaultlibs   -Wmismatched-tags -o CMakeFiles/cmTC_2f791.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wmismatched-tags'
+CMakeFiles/cmTC_2f791.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2f791.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_2f791.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2f791/fast' failed
+make: *** [cmTC_2f791/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_WSHORTEN_64_TO_32_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e5e0f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e5e0f.dir/build.make CMakeFiles/cmTC_e5e0f.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e5e0f.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_WSHORTEN_64_TO_32_FLAG  -nodefaultlibs   -Wshorten-64-to-32 -o CMakeFiles/cmTC_e5e0f.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wshorten-64-to-32'
+CMakeFiles/cmTC_e5e0f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e5e0f.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_e5e0f.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e5e0f/fast' failed
+make: *** [cmTC_e5e0f/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_WNEWLINE_EOF_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e207a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e207a.dir/build.make CMakeFiles/cmTC_e207a.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e207a.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_WNEWLINE_EOF_FLAG  -nodefaultlibs   -Wnewline-eof -o CMakeFiles/cmTC_e207a.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnewline-eof'
+CMakeFiles/cmTC_e207a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e207a.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_e207a.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e207a/fast' failed
+make: *** [cmTC_e207a/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_WX_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_03b07/fast"
+/usr/bin/make -f CMakeFiles/cmTC_03b07.dir/build.make CMakeFiles/cmTC_03b07.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_03b07.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_WX_FLAG  -nodefaultlibs   /WX -o CMakeFiles/cmTC_03b07.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /WX: No such file or directory
+CMakeFiles/cmTC_03b07.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_03b07.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_03b07.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_03b07/fast' failed
+make: *** [cmTC_03b07/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_NO_WX_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_789a2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_789a2.dir/build.make CMakeFiles/cmTC_789a2.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_789a2.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_NO_WX_FLAG  -nodefaultlibs   /WX- -o CMakeFiles/cmTC_789a2.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /WX-: No such file or directory
+CMakeFiles/cmTC_789a2.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_789a2.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_789a2.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_789a2/fast' failed
+make: *** [cmTC_789a2/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_EHSC_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_13917/fast"
+/usr/bin/make -f CMakeFiles/cmTC_13917.dir/build.make CMakeFiles/cmTC_13917.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13917.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_EHSC_FLAG  -nodefaultlibs   /EHsc -o CMakeFiles/cmTC_13917.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /EHsc: No such file or directory
+CMakeFiles/cmTC_13917.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_13917.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_13917.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_13917/fast' failed
+make: *** [cmTC_13917/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_NO_EHS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3d878/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3d878.dir/build.make CMakeFiles/cmTC_3d878.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3d878.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_NO_EHS_FLAG  -nodefaultlibs   /EHs- -o CMakeFiles/cmTC_3d878.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /EHs-: No such file or directory
+CMakeFiles/cmTC_3d878.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3d878.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_3d878.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3d878/fast' failed
+make: *** [cmTC_3d878/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_NO_EHA_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_50ded/fast"
+/usr/bin/make -f CMakeFiles/cmTC_50ded.dir/build.make CMakeFiles/cmTC_50ded.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_50ded.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_NO_EHA_FLAG  -nodefaultlibs   /EHa- -o CMakeFiles/cmTC_50ded.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /EHa-: No such file or directory
+CMakeFiles/cmTC_50ded.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_50ded.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_50ded.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_50ded/fast' failed
+make: *** [cmTC_50ded/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_HAS_NO_GR_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c08df/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c08df.dir/build.make CMakeFiles/cmTC_c08df.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c08df.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_HAS_NO_GR_FLAG  -nodefaultlibs   /GR- -o CMakeFiles/cmTC_c08df.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /GR-: No such file or directory
+CMakeFiles/cmTC_c08df.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_c08df.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_c08df.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c08df/fast' failed
+make: *** [cmTC_c08df/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_SUPPORTS_WMISMATCHED_TAGS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ae82a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ae82a.dir/build.make CMakeFiles/cmTC_ae82a.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ae82a.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_SUPPORTS_WMISMATCHED_TAGS_FLAG  -nodefaultlibs   -Wmismatched-tags -o CMakeFiles/cmTC_ae82a.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wmismatched-tags'
+CMakeFiles/cmTC_ae82a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ae82a.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_ae82a.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ae82a/fast' failed
+make: *** [cmTC_ae82a/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_SUPPORTS_WNEWLINE_EOF_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1cb98/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1cb98.dir/build.make CMakeFiles/cmTC_1cb98.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1cb98.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_SUPPORTS_WNEWLINE_EOF_FLAG  -nodefaultlibs   -Wnewline-eof -o CMakeFiles/cmTC_1cb98.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnewline-eof'
+CMakeFiles/cmTC_1cb98.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1cb98.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_1cb98.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1cb98/fast' failed
+make: *** [cmTC_1cb98/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_SUPPORTS_WSHORTEN_64_TO_32_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_63c4f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_63c4f.dir/build.make CMakeFiles/cmTC_63c4f.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_63c4f.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_SUPPORTS_WSHORTEN_64_TO_32_FLAG  -nodefaultlibs   -Wshorten-64-to-32 -o CMakeFiles/cmTC_63c4f.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wshorten-64-to-32'
+CMakeFiles/cmTC_63c4f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_63c4f.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_63c4f.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_63c4f/fast' failed
+make: *** [cmTC_63c4f/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_SUPPORTS_WX_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8b363/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8b363.dir/build.make CMakeFiles/cmTC_8b363.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8b363.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_SUPPORTS_WX_FLAG  -nodefaultlibs   -WX- -o CMakeFiles/cmTC_8b363.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-WX-'
+CMakeFiles/cmTC_8b363.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8b363.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_8b363.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8b363/fast' failed
+make: *** [cmTC_8b363/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXXABI_SUPPORTS_EHSC_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_13e28/fast"
+/usr/bin/make -f CMakeFiles/cmTC_13e28.dir/build.make CMakeFiles/cmTC_13e28.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13e28.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXXABI_SUPPORTS_EHSC_FLAG  -nodefaultlibs   -EHsc -o CMakeFiles/cmTC_13e28.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-EHsc'
+CMakeFiles/cmTC_13e28.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_13e28.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_13e28.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_13e28/fast' failed
+make: *** [cmTC_13e28/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_HAS_WX_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0238e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0238e.dir/build.make CMakeFiles/cmTC_0238e.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0238e.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_HAS_WX_FLAG  -nodefaultlibs   /WX -o CMakeFiles/cmTC_0238e.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /WX: No such file or directory
+CMakeFiles/cmTC_0238e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0238e.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_0238e.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0238e/fast' failed
+make: *** [cmTC_0238e/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_HAS_NO_WX_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b14a6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b14a6.dir/build.make CMakeFiles/cmTC_b14a6.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b14a6.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_HAS_NO_WX_FLAG  -nodefaultlibs   /WX- -o CMakeFiles/cmTC_b14a6.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /WX-: No such file or directory
+CMakeFiles/cmTC_b14a6.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b14a6.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_b14a6.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b14a6/fast' failed
+make: *** [cmTC_b14a6/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_HAS_EHSC_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6593a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6593a.dir/build.make CMakeFiles/cmTC_6593a.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6593a.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_HAS_EHSC_FLAG  -nodefaultlibs   /EHsc -o CMakeFiles/cmTC_6593a.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /EHsc: No such file or directory
+CMakeFiles/cmTC_6593a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_6593a.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_6593a.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_6593a/fast' failed
+make: *** [cmTC_6593a/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_HAS_NO_EHS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e5c3d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e5c3d.dir/build.make CMakeFiles/cmTC_e5c3d.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e5c3d.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_HAS_NO_EHS_FLAG  -nodefaultlibs   /EHs- -o CMakeFiles/cmTC_e5c3d.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /EHs-: No such file or directory
+CMakeFiles/cmTC_e5c3d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e5c3d.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_e5c3d.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e5c3d/fast' failed
+make: *** [cmTC_e5c3d/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_HAS_NO_EHA_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_88286/fast"
+/usr/bin/make -f CMakeFiles/cmTC_88286.dir/build.make CMakeFiles/cmTC_88286.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_88286.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_HAS_NO_EHA_FLAG  -nodefaultlibs   /EHa- -o CMakeFiles/cmTC_88286.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /EHa-: No such file or directory
+CMakeFiles/cmTC_88286.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_88286.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_88286.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_88286/fast' failed
+make: *** [cmTC_88286/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_HAS_NO_GR_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1b91f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1b91f.dir/build.make CMakeFiles/cmTC_1b91f.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1b91f.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_HAS_NO_GR_FLAG  -nodefaultlibs   /GR- -o CMakeFiles/cmTC_1b91f.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /GR-: No such file or directory
+CMakeFiles/cmTC_1b91f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1b91f.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_1b91f.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1b91f/fast' failed
+make: *** [cmTC_1b91f/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test LIBCXX_SUPPORTS_EHSC_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_db6d5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_db6d5.dir/build.make CMakeFiles/cmTC_db6d5.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_db6d5.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers  -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DLIBCXX_SUPPORTS_EHSC_FLAG  -nodefaultlibs   -EHsc -o CMakeFiles/cmTC_db6d5.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-EHsc'
+CMakeFiles/cmTC_db6d5.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_db6d5.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_db6d5.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_db6d5/fast' failed
+make: *** [cmTC_db6d5/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_FNO_SANITIZE_SAFE_STACK_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_daefc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_daefc.dir/build.make CMakeFiles/cmTC_daefc.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_daefc.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_FNO_SANITIZE_SAFE_STACK_FLAG  -nodefaultlibs   -fno-sanitize=safe-stack -o CMakeFiles/cmTC_daefc.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized argument to -fsanitize= option: 'safe-stack'
+CMakeFiles/cmTC_daefc.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_daefc.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_daefc.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_daefc/fast' failed
+make: *** [cmTC_daefc/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_MCRC_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0d40c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0d40c.dir/build.make CMakeFiles/cmTC_0d40c.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0d40c.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_MCRC_FLAG  -nodefaultlibs   -Werror -mcrc -o CMakeFiles/cmTC_0d40c.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-mcrc'
+CMakeFiles/cmTC_0d40c.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0d40c.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_0d40c.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0d40c/fast' failed
+make: *** [cmTC_0d40c/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_GR_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_04158/fast"
+/usr/bin/make -f CMakeFiles/cmTC_04158.dir/build.make CMakeFiles/cmTC_04158.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_04158.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_GR_FLAG  -nodefaultlibs   /GR -o CMakeFiles/cmTC_04158.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /GR: No such file or directory
+CMakeFiles/cmTC_04158.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_04158.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_04158.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_04158/fast' failed
+make: *** [cmTC_04158/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_GS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_667c0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_667c0.dir/build.make CMakeFiles/cmTC_667c0.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_667c0.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_GS_FLAG  -nodefaultlibs   /GS -o CMakeFiles/cmTC_667c0.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /GS: No such file or directory
+CMakeFiles/cmTC_667c0.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_667c0.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_667c0.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_667c0/fast' failed
+make: *** [cmTC_667c0/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_MT_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_aaadc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_aaadc.dir/build.make CMakeFiles/cmTC_aaadc.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_aaadc.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_MT_FLAG  -nodefaultlibs   /MT -o CMakeFiles/cmTC_aaadc.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /MT: No such file or directory
+CMakeFiles/cmTC_aaadc.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_aaadc.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_aaadc.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_aaadc/fast' failed
+make: *** [cmTC_aaadc/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_Oy_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_13814/fast"
+/usr/bin/make -f CMakeFiles/cmTC_13814.dir/build.make CMakeFiles/cmTC_13814.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13814.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_Oy_FLAG  -nodefaultlibs   /Oy -o CMakeFiles/cmTC_13814.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /Oy: No such file or directory
+CMakeFiles/cmTC_13814.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_13814.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_13814.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_13814/fast' failed
+make: *** [cmTC_13814/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_GLINE_TABLES_ONLY_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8463f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8463f.dir/build.make CMakeFiles/cmTC_8463f.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8463f.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_GLINE_TABLES_ONLY_FLAG  -nodefaultlibs   -gline-tables-only -o CMakeFiles/cmTC_8463f.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: unrecognised debug output level 'line-tables-only'
+CMakeFiles/cmTC_8463f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8463f.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_8463f.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8463f/fast' failed
+make: *** [cmTC_8463f/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_Zi_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_31954/fast"
+/usr/bin/make -f CMakeFiles/cmTC_31954.dir/build.make CMakeFiles/cmTC_31954.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_31954.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_Zi_FLAG  -nodefaultlibs   /Zi -o CMakeFiles/cmTC_31954.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /Zi: No such file or directory
+CMakeFiles/cmTC_31954.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_31954.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_31954.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_31954/fast' failed
+make: *** [cmTC_31954/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WGLOBAL_CONSTRUCTORS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3781b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3781b.dir/build.make CMakeFiles/cmTC_3781b.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3781b.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WGLOBAL_CONSTRUCTORS_FLAG  -nodefaultlibs   -Werror -Wglobal-constructors -o CMakeFiles/cmTC_3781b.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wglobal-constructors'
+CMakeFiles/cmTC_3781b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3781b.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_3781b.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3781b/fast' failed
+make: *** [cmTC_3781b/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WC99_EXTENSIONS_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_09894/fast"
+/usr/bin/make -f CMakeFiles/cmTC_09894.dir/build.make CMakeFiles/cmTC_09894.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_09894.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WC99_EXTENSIONS_FLAG  -nodefaultlibs   -Werror -Wc99-extensions -o CMakeFiles/cmTC_09894.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wc99-extensions'
+CMakeFiles/cmTC_09894.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_09894.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_09894.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_09894/fast' failed
+make: *** [cmTC_09894/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WGNU_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ca1ee/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ca1ee.dir/build.make CMakeFiles/cmTC_ca1ee.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ca1ee.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WGNU_FLAG  -nodefaultlibs   -Werror -Wgnu -o CMakeFiles/cmTC_ca1ee.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wgnu'
+CMakeFiles/cmTC_ca1ee.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ca1ee.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_ca1ee.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ca1ee/fast' failed
+make: *** [cmTC_ca1ee/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WCOVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_22633/fast"
+/usr/bin/make -f CMakeFiles/cmTC_22633.dir/build.make CMakeFiles/cmTC_22633.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_22633.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WCOVERED_SWITCH_DEFAULT_FLAG  -nodefaultlibs   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_22633.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_22633.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_22633.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_22633.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_22633/fast' failed
+make: *** [cmTC_22633/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_W4_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bb7f1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bb7f1.dir/build.make CMakeFiles/cmTC_bb7f1.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bb7f1.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_W4_FLAG  -nodefaultlibs   /W4 -o CMakeFiles/cmTC_bb7f1.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /W4: No such file or directory
+CMakeFiles/cmTC_bb7f1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_bb7f1.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_bb7f1.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bb7f1/fast' failed
+make: *** [cmTC_bb7f1/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WX_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3dca5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3dca5.dir/build.make CMakeFiles/cmTC_3dca5.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3dca5.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WX_FLAG  -nodefaultlibs   /WX -o CMakeFiles/cmTC_3dca5.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /WX: No such file or directory
+CMakeFiles/cmTC_3dca5.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3dca5.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_3dca5.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3dca5/fast' failed
+make: *** [cmTC_3dca5/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4146_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_33d64/fast"
+/usr/bin/make -f CMakeFiles/cmTC_33d64.dir/build.make CMakeFiles/cmTC_33d64.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_33d64.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4146_FLAG  -nodefaultlibs   /wd4146 -o CMakeFiles/cmTC_33d64.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4146: No such file or directory
+CMakeFiles/cmTC_33d64.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_33d64.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_33d64.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_33d64/fast' failed
+make: *** [cmTC_33d64/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4291_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9443f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9443f.dir/build.make CMakeFiles/cmTC_9443f.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9443f.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4291_FLAG  -nodefaultlibs   /wd4291 -o CMakeFiles/cmTC_9443f.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4291: No such file or directory
+CMakeFiles/cmTC_9443f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9443f.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_9443f.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9443f/fast' failed
+make: *** [cmTC_9443f/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4221_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cf3d7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cf3d7.dir/build.make CMakeFiles/cmTC_cf3d7.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cf3d7.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4221_FLAG  -nodefaultlibs   /wd4221 -o CMakeFiles/cmTC_cf3d7.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4221: No such file or directory
+CMakeFiles/cmTC_cf3d7.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_cf3d7.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_cf3d7.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cf3d7/fast' failed
+make: *** [cmTC_cf3d7/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4391_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fb9ce/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fb9ce.dir/build.make CMakeFiles/cmTC_fb9ce.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fb9ce.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4391_FLAG  -nodefaultlibs   /wd4391 -o CMakeFiles/cmTC_fb9ce.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4391: No such file or directory
+CMakeFiles/cmTC_fb9ce.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_fb9ce.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_fb9ce.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_fb9ce/fast' failed
+make: *** [cmTC_fb9ce/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4722_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_67cd9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_67cd9.dir/build.make CMakeFiles/cmTC_67cd9.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_67cd9.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4722_FLAG  -nodefaultlibs   /wd4722 -o CMakeFiles/cmTC_67cd9.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4722: No such file or directory
+CMakeFiles/cmTC_67cd9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_67cd9.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_67cd9.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_67cd9/fast' failed
+make: *** [cmTC_67cd9/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4800_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a01e0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a01e0.dir/build.make CMakeFiles/cmTC_a01e0.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a01e0.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4800_FLAG  -nodefaultlibs   /wd4800 -o CMakeFiles/cmTC_a01e0.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4800: No such file or directory
+CMakeFiles/cmTC_a01e0.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a01e0.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_a01e0.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a01e0/fast' failed
+make: *** [cmTC_a01e0/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Determining if the __i386__ exist failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7961c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7961c.dir/build.make CMakeFiles/cmTC_7961c.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7961c.dir/CheckSymbolExists.c.o
+/usr/bin/cc  -D_GNU_SOURCE  -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections  -nodefaultlibs  -m32   -o CMakeFiles/cmTC_7961c.dir/CheckSymbolExists.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_7961c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7961c.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections  -nodefaultlibs  -m32   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_7961c.dir/CheckSymbolExists.c.o  -o cmTC_7961c -lm -lc -lgcc_s 
+/usr/bin/ld: cannot find crt1.o: No such file or directory
+/usr/bin/ld: cannot find crti.o: No such file or directory
+/usr/bin/ld: cannot find -lm
+/usr/bin/ld: cannot find -lc
+/usr/bin/ld: skipping incompatible /usr/lib/gcc/x86_64-linux-gnu/5/libgcc_s.so when searching for -lgcc_s
+/usr/bin/ld: cannot find -lgcc_s
+/usr/bin/ld: cannot find crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_7961c.dir/build.make:97: recipe for target 'cmTC_7961c' failed
+make[1]: *** [cmTC_7961c] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7961c/fast' failed
+make: *** [cmTC_7961c/fast] Error 2
+
+File /home/enigma/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __i386__
+  return ((int*)(&__i386__))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file rpc/xdr.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ab68c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ab68c.dir/build.make CMakeFiles/cmTC_ab68c.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ab68c.dir/CheckIncludeFile.c.o
+/usr/bin/cc  -D_GNU_SOURCE  -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -Wall -Wno-unused-parameter  -nodefaultlibs   -o CMakeFiles/cmTC_ab68c.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_ab68c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ab68c.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -Wall -Wno-unused-parameter  -nodefaultlibs   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_ab68c.dir/CheckIncludeFile.c.o  -o cmTC_ab68c 
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x12): undefined reference to `__libc_csu_fini'
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x19): undefined reference to `__libc_csu_init'
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x25): undefined reference to `__libc_start_main'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_ab68c.dir/build.make:97: recipe for target 'cmTC_ab68c' failed
+make[1]: *** [cmTC_ab68c] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ab68c/fast' failed
+make: *** [cmTC_ab68c/fast] Error 2
+
+
+Determining if the include file tirpc/rpc/xdr.h exists failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9571e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9571e.dir/build.make CMakeFiles/cmTC_9571e.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9571e.dir/CheckIncludeFile.c.o
+/usr/bin/cc  -D_GNU_SOURCE  -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -Wall -Wno-unused-parameter  -nodefaultlibs   -o CMakeFiles/cmTC_9571e.dir/CheckIncludeFile.c.o   -c /home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/enigma/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: tirpc/rpc/xdr.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_9571e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9571e.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_9571e.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9571e/fast' failed
+make: *** [cmTC_9571e/fast] Error 2
+
+
+Testing compiler for supporting FLAGS-fxray-instrument:
+Command: /usr/bin/cc;;;;-fPIC;-Werror=date-time;-Wall;-W;-Wno-unused-parameter;-Wwrite-strings;-Wno-missing-field-initializers;-pedantic;-Wno-long-long;-Wno-comment;-ffunction-sections;-fdata-sections;-Wall;-Wno-unused-parameter;-fxray-instrument;-o;/home/enigma/build/CMakeFiles/test.o;;;-c;/home/enigma/build/CMakeFiles/src.c
+
+cc: error: unrecognized command line option ‘-fxray-instrument’
+
+1
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG failed with the following output:
+Change Dir: /home/enigma/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e1332/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e1332.dir/build.make CMakeFiles/cmTC_e1332.dir/build
+make[1]: Entering directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e1332.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -fno-common -Woverloaded-virtual -fno-strict-aliasing -DCXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG   -Werror -Wnested-anon-types -o CMakeFiles/cmTC_e1332.dir/src.cxx.o -c /home/enigma/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnested-anon-types'
+CMakeFiles/cmTC_e1332.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e1332.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_e1332.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/enigma/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e1332/fast' failed
+make: *** [cmTC_e1332/fast] Error 2
+
+Source file was:
+int main() { return 0; }

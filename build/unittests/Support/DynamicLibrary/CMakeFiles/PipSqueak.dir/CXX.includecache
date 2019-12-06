@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enigma/llvm/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+PipSqueak.h
+/home/enigma/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+
+/home/enigma/llvm/unittests/Support/DynamicLibrary/PipSqueak.cxx
+PipSqueak.h
+/home/enigma/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+ExportedFuncs.cxx
+/home/enigma/llvm/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+
+/home/enigma/llvm/unittests/Support/DynamicLibrary/PipSqueak.h
+string
+-
+vector
+-
+string
+-
+vector
+-
+
